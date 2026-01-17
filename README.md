@@ -13,6 +13,7 @@ Guide the bee through obstacles, survive as long as possible, and beat your high
 - Game ends when the bee crashes
 
 Simple to play, hard to master 😌
+https://janvi186.github.io/floppybeehehe/
 
 ---
 
@@ -23,4 +24,3 @@ Simple to play, hard to master 😌
 - JavaScript – Game logic, movement, collision detection, and scoring  
 
 
-ChatGPT can make 
